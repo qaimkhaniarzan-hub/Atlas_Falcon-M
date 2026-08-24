@@ -90,21 +90,19 @@ The full component list and budget breakdown are tracked below.
 2. **Construct Wing & Spar:** Glue a double-layered foamboard main spar (reinforced with a bamboo skewer) at the 30% wing chord line, fold the top foam skin over, and glue down the trailing edge. Slide the wing through the fuselage center cutout and glue securely.
 3. **Attach Tail Assembly:** Glue the horizontal and vertical stabilizers onto the rear tail boom, ensuring they are perfectly square (90°) to the wing plane.
 
-<!-- INSERT IMAGE 2 HERE: Place a photo of your cut foamboard templates or assembled fuselage structure -->
 
 ### Phase 4: Electronics & Propulsion Installation
 1. **Solder Harnesses:** Solder bullet connectors between motors and ESCs, and solder both ESC power leads in parallel to a single battery connector.
 2. **Mount Hardware:** Secure the twin motor nacelles onto the wings, and install the 3 retractable landing gear bases onto reinforced mounting plates under the wings and nose.
 3. **Control Linkages:** Install 9g servos into their pre-cut pockets, mount control horns onto the control surfaces, and connect pushrods with clevises set to neutral positions.
 
-<!-- INSERT IMAGE 3 HERE: Place a photo showing internal electronics, receiver wiring, or motor nacelle mounting -->
 
 ### Phase 5: Final Setup & Pre-Flight Check
 1. **Receiver & Camera Setup:** Connect all 10 channels to the FlySky iA10B receiver and mount the SQ11 action camera in the nose section.
 2. **Center of Gravity (CG) Balancing:** Place the 3S LiPo battery in the nose bay, support the aircraft on your fingers at the 25%–30% wing chord mark (along the main spar), and adjust battery placement until the plane balances perfectly level.
 3. **Pre-Flight Test:** Power on the transmitter first, connect the flight battery, and verify that all control surfaces move in the correct directions relative to stick inputs.
 
-<!-- INSERT IMAGE 4 HERE: Place a photo of the camera nose mount or close-up of the landing gear mechanism -->
+
 
 ---
 
@@ -113,5 +111,4 @@ The full component list and budget breakdown are tracked below.
 ```text
 ├── README.md             # Complete project documentation and guide
 ├── BOM.csv               # Complete Bill of Materials with purchase links
-├── plans/                # Printable 2D template files (PDF / DXF)
 └── media/                # Build photos, schematics, and flight footage
