@@ -74,35 +74,35 @@ The full component list and budget breakdown are tracked below.
 ## Step-by-Step Construction Guide
 
 ### Phase 1: Preparation & Workspace Setup
-1. **Prepare Workspace:** Clear a flat workbench, plug in your hot glue gun, and gather your craft knife, cutting mat, steel ruler, and soldering iron kit.
-2. **Print & Assemble Plans:** Open the exported 2D template PDF files in Adobe Acrobat Reader, select **Print > Poster** (Tile Scale: 100%), print across A4 sheets, align the grid marks, tape them together, and cut out the paper shapes.
+1. **Prepare Workspace:** Clear a flat workbench, plug in your hot glue, and gather your craft knife, cutting mat, steel ruler, and soldering iron kit.
+2. **Print & Assemble Plans:** Open the 2D template files, and print them with a Tile Scale of 100%, across A4 sheets. Then align the grid marks, tape them together, and cut out the paper shapes.
 
 ### Phase 2: Cutting & Prepping Foamboard
-1. **Trace Patterns:** Lay the paper templates onto your 5mm foamboard sheets and lightly trace outlines with a pencil.
+1. **Trace Patterns:** Lay the paper templates onto your foamboard sheets and lightly trace the outlines with a pencil.
 2. **Mark Cut Types:** 
    * **Solid Lines:** Full cuts through foam and paper.
    * **Score Cuts:** Partial cuts through top paper layer only for folding.
    * **Bevel Lines:** 45° angle scrapes for control surface hinges and wing edges.
-3. **Cut Components:** Use a fresh craft knife blade held at a low angle along a steel ruler to make crisp cuts without tearing the foam.
+3. **Cut Components:** Use a fresh craft knife blade held at a low angle along a steel ruler to make crisp cuts without tearing the foam. :)
 
 ### Phase 3: Airframe Assembly
-1. **Build Fuselage Box:** Score-cut fuselage fold lines, run hot glue down the internal joints, fold the sides upward to form the box cargo fuselage, and reinforce the inner bottom keel with a bamboo skewer.
-2. **Construct Wing & Spar:** Glue a double-layered foamboard main spar (reinforced with a bamboo skewer) at the 30% wing chord line, fold the top foam skin over, and glue down the trailing edge. Slide the wing through the fuselage center cutout and glue securely.
-3. **Attach Tail Assembly:** Glue the horizontal and vertical stabilizers onto the rear tail boom, ensuring they are perfectly square (90°) to the wing plane.
+1. **Build Fuselage Box:** Score-cut fuselage fold lines, run hot glue down the internal joints, fold the sides upward to form the box cargo fuselage, and then reinforce the inner bottom keel with a bamboo skewer.
+2. **Construct Wing & Spar:** Glue a double-layered foamboard spar that's reinforced with a bamboo skewer at the spot where the wings will be. Fold the top foam skin over, and the glue down the trailing edge. Slide the wing through the fuselage center cutout and glue it on there securely.
+3. **Attach Tail Assembly:** Glue the horizontal and vertical stabilizers onto the rear tail boom. MAKE SURE they're perfectly square (90°) to the wing plane!!!@@
 
 
 ### Phase 4: Electronics & Propulsion Installation
-1. **Solder Harnesses:** Solder bullet connectors between motors and ESCs, and solder both ESC power leads in parallel to a single battery connector.
-2. **Mount Hardware:** Secure the twin motor nacelles onto the wings, and install the 3 retractable landing gear bases onto reinforced mounting plates under the wings and nose.
-3. **Control Linkages:** Install 9g servos into their pre-cut pockets, mount control horns onto the control surfaces, and connect pushrods with clevises set to neutral positions.
+1. **Solder Harnesses:** Solder bullet connectors between motors and flight computers, and solder both power leads in parallel to a single battery connector.
+2. **Mount Hardware:** Secure the twin motor mounts onto the wings, and install the 3 retractable landing gear bases onto reinforced mounting plates under the wings and nose.
+3. **Control Linkages:** Install baby servos into their pre-cut pockets, mount control horns onto the control surfaces, and then connect pushrods with clevises set to neutral positions.
 
 
 ### Phase 5: Final Setup & Pre-Flight Check
-1. **Receiver & Camera Setup:** Connect all 10 channels to the FlySky iA10B receiver and mount the SQ11 action camera in the nose section.
-2. **Center of Gravity (CG) Balancing:** Place the 3S LiPo battery in the nose bay, support the aircraft on your fingers at the 25%–30% wing chord mark (along the main spar), and adjust battery placement until the plane balances perfectly level.
+1. **Receiver & Camera Setup:** Connect all 10 channels to the receiver and mount the action camera in the nose section. MAKE SURE ITS CONNECTED TO A STORAGE DEVICE.
+2. **Center of Gravity (CG) Balancing:** Place the battery in the nose bay, support the aircraft on your fingers at where the wings are, and adjust the placement of all the components until the plane balances perfectly level.
 3. **Pre-Flight Test:** Power on the transmitter first, connect the flight battery, and verify that all control surfaces move in the correct directions relative to stick inputs.
 
-
+then fly weee
 
 ---
 
