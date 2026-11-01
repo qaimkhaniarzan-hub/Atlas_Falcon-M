@@ -17,13 +17,13 @@ Since I was young, I've always loved airplanes! Over the last couple of years, I
 
 ## Progress So Far
 
-🟢 **Project Scoping & Design:** Defined payload goals, twin-motor configuration, and channel requirements.  
-🟢 **Bill of Materials (BOM):** Selected all 20 hardware items, tools, and electronics within the $600 USD budget ceiling.  
-🟢 **Repository & CAD Modeling:** Created GitHub project structure and completed full 3D airframe blockout in Blender.  
-🔴 **Verification & Funding:** Finalizing verification approval to secure project grant funds.  
-🔴 **Templates & Printing:** Generating 1:1 scale printable 2D foamboard templates.  
-🔴 **Airframe Build:** Cutting foamboard and assembling the fuselage, wing spar, and control surfaces.  
-🔴 **Electronics & Maiden Flight:** Installing power system, servos, camera, and completing first test flight.  
+COMPLETE **Project Scoping & Design:** Defined payload goals, twin-motor configuration, and channel requirements.  
+COMPLETE **Bill of Materials (BOM):** Selected all 20 hardware items, tools, and electronics within the $600 USD budget ceiling.  
+COMPLETE **Repository & CAD Modeling:** Created GitHub project structure and completed full 3D airframe blockout in Blender.  
+BLEHH NOT DONE YET **Verification & Funding:** Finalizing verification approval to secure project grant funds.  
+BLEHH NOT DONE YET **Templates & Printing:** Generating 1:1 scale printable 2D foamboard templates.  
+BLEHH NOT DONE YET **Airframe Build:** Cutting foamboard and assembling the fuselage, wing spar, and control surfaces.  
+BLEHH NOT DONE YET **Electronics & Maiden Flight:** Installing power system, servos, camera, and completing first test flight.  
 
 ---
 
@@ -67,7 +67,7 @@ The full component list and budget breakdown are tracked below.
 | MicroSD Card | 1 | 89.00 | $24.03 |
 | **TOTAL** | **20 Items** | **SAR 1,847** | **$496** |
 
-*Note: Direct purchase links are available in the repository's `BOM.csv` file.*
+*Note: Direct purchase links are available in the repo's BOM.csv file.*
 
 ---
 
@@ -75,10 +75,10 @@ The full component list and budget breakdown are tracked below.
 
 ### Phase 1: Preparation & Workspace Setup
 1. **Prepare Workspace:** Clear a flat workbench, plug in your hot glue, and gather your craft knife, cutting mat, steel ruler, and soldering iron kit.
-2. **Print & Assemble Plans:** Open the 2D template files, and print them with a Tile Scale of 100%, across A4 sheets. Then align the grid marks, tape them together, and cut out the paper shapes.
+2. **Print & Assemble Plans:** Open the 2D template files, and print them with a Tile Scale of 100% (THIS IS IMPORTANT), across A4 sheets. Then align the grid marks, tape them together, and cut out the paper shapes.
 
 ### Phase 2: Cutting & Prepping Foamboard
-1. **Trace Patterns:** Lay the paper templates onto your foamboard sheets and lightly trace the outlines with a pencil.
+1. **Trace Patterns:** Lay the paper templates onto your foamboard sheets and pin them on with a toothpick. Lightly trace the outlines with a pencil.
 2. **Mark Cut Types:** 
    * **Solid Lines:** Full cuts through foam and paper.
    * **Score Cuts:** Partial cuts through top paper layer only for folding.
