@@ -16,6 +16,9 @@ Welcome to my project. This readme includes:
 **Atlas**
 
 Atlas is a mid-sized, radio-controlled cargo aircraft, completely built from scratch. Its purpose in this project is to take off, reach a suitable altitude, deploy Falcon-M when required, maintain stability despite losing the payload's mass, and land safely.
+<img width="1365" height="768" alt="638945689-c4483255-7ae2-4acf-ad6e-42f3077bd0d8 (1)" src="https://github.com/user-attachments/assets/2cd9a409-a9ef-413b-a674-e91931960b7d" />
+<img width="1090" height="868" alt="Screenshot 2026-11-04 132100" src="https://github.com/user-attachments/assets/0aed83ee-e73e-47e3-baf5-e152cb4b16de" />
+<img width="947" height="700" alt="Screenshot 2026-11-02 220456" src="https://github.com/user-attachments/assets/349e96db-2653-4f5e-8868-b454b1cfc62d" />
 
 Atlas is the carrier aircraft and the primary platform responsible for transporting Falcon-M. It must be designed to accommodate the additional payload weight without compromising its flight characteristics, structural integrity, or ability to land.
 **Falcon-M**
